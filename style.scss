@@ -29,6 +29,7 @@ body {
 }
 
 .posts {
+  margin: -60px;
 }
 
 #information {
@@ -138,6 +139,10 @@ img {
 
 .post {
   width: 50%;
+	
+  @include mobile {
+	  width: 100%;
+	}
   blockquote {
     margin: 1.8em .8em;
     border-left: 2px solid $gray;
