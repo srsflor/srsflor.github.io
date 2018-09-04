@@ -1,6 +1,7 @@
 ---
 layout: post
 title: known safehouses and hubs
+category: eng
 ---
 
 - C. Lee: the abandoned basement parking lot
