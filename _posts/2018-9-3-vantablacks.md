@@ -1,6 +1,7 @@
 ---
 layout: post
 title: vantablacks
+category: eng
 ---
 
 Alternatively known as "wolves", "black dogs", "monsters". "Vantablack" was a term coined by V. F. Seong to name the completely light-absorbing canine creatures.
